@@ -1,2 +1,2 @@
 # oh-tek
-Esimerkki gitin ja githubin käytöstä käytöstä
+Esimerkki gitin ja githubin käytöstä 
